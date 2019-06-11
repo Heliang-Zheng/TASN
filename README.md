@@ -5,4 +5,5 @@ Code (MXNet version) for our cvpr'19 paper "Looking for the Devil in the Details
 
 Notes
 -------
-The code and model will be released in June.
+The code and model can be found in https://github.com/researchmm/tasn
+
